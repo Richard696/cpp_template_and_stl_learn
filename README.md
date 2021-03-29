@@ -5,8 +5,9 @@ To read more about template in C++, can visit
 
 1. https://en.wikipedia.org/wiki/Template_(C%2B%2B)
 2. https://en.cppreference.com/w/cpp/language/type_alias
-
-To use the template in c++, the compiler version has be min c++11.
+3. https://hackernoon.com/c-template-a-quick-review-of-c11141720-version-ipg3uqy
+4. https://devblogs.microsoft.com/cppblog/better-template-support-and-error-detection-in-c-modules-with-msvc-2017-version-15-9/
+   To use the template in c++, the compiler version has be min c++11.
 
 ## Templating
 
