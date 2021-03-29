@@ -1,6 +1,12 @@
 # About
 
 This repo is the based on C++ Templates & the STL Courses on Linkedin Learn.
+To read more about template in C++, can visit
+
+1. https://en.wikipedia.org/wiki/Template_(C%2B%2B)
+2. https://en.cppreference.com/w/cpp/language/type_alias
+
+To use the template in c++, the compiler version has be min c++11.
 
 ## Templating
 
@@ -39,3 +45,5 @@ datatype we are going to use in the runtime.
 ```c++
 cout << "max is " << maxof<int>(a, b) << endl;
 ```
+
+### Template Variable
